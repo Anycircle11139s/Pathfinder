@@ -1,15 +1,22 @@
 # Pathfinder
-This is my pathfinder project based on the pathfinder tutorial. I created this because it seemed really cool and I wanted to make one of my own.
+This is my pathfinder project based on the pathfinder tutorial. I created this because it seemed really cool and I wanted to make one of my own. Basically, it's a reaction game and after you click the first button, the first led comes on, and the second led comes at a random time, as soon as the led comes, you have to click the second button, if you have a quick enough reaction time, all 3 leds will start flashing, otherwise, you restart.
 
-<img width="769" height="333" alt="Screenshot 2026-04-14 at 6 23 04 pm" src="https://github.com/user-attachments/assets/d40b34c2-3da2-404a-b9d1-c9819bdc0b40" />
+<img width="762" height="366" alt="Screenshot 2026-04-26 at 4 44 11 pm" src="https://github.com/user-attachments/assets/e105ecb9-fbfe-43ff-86e9-d75dee825a73" />
+<br>
 
 This is the schematic, I found this fairly easy, and quickly moved on to the PCB.
-<img width="470" height="572" alt="Screenshot 2026-04-14 at 6 24 24 pm" src="https://github.com/user-attachments/assets/d88ba6ea-d960-49ad-a5b8-6f7b93c1f9dc" />
+
+<br>
+<img width="536" height="654" alt="Screenshot 2026-04-26 at 4 44 20 pm" src="https://github.com/user-attachments/assets/f4e1c4f0-2822-4bc2-91b2-91288bc05a10" />
+<br>
 
 This is my PCB, I arranged the parts and routed them. I spent a while creating the edge.cuts.
+<br>
+
 <img width="2162" height="1256" alt="image" src="https://github.com/user-attachments/assets/2c69c0f9-41d3-476a-a605-3ab67449130c" />
 
 This is my 3d model, I spent the longest time doing this, the CAD was just really tedious.
+<br>
 
 BOM:
 |Name            |Purpose              |Quantity|Total Cost (USD)|Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |Distributor|

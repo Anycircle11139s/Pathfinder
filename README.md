@@ -27,3 +27,22 @@ BOM:
 |switches        |button for game      |1       |2.30            |https://www.aliexpress.com/item/1005006045867626.html?spm=a2g0o.cart.0.0.244c38dah2wect&mp=1&pdp_npi=6%40dis%21SGD%21SGD%202.16%21SGD%202.08%21%21SGD%202.08%21%21%21%402140f54217753990180086055e1200%2112000035472160170%21ct%21SG%216542932762%21%211%210%21                                                                                                                                                                                                                                                                                                                                                                                                      |aliexpress |
 |LEDs            |To light up yes|1       |1.37            |https://www.aliexpress.com/item/1005005708510866.html?spm=a2g0o.cart.0.0.244c38dah2wect&mp=1&pdp_npi=6%40dis%21SGD%21SGD%201.86%21SGD%201.86%21%21SGD%201.86%21%21%21%402140f54217753990180086055e1200%2112000034078716879%21ct%21SG%216542932762%21%211%210%21                                                                                                                                                                                                                                                                                                                                                                                                      |aliexpress |
 |PCB             |wires everything tgt |1       |5.50            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |JLCPCB     |
+
+
+
+<br>
+
+<br>
+
+Building it IRL:
+I soldered all the parts together and tweaked the code to make it slightly harder and cheat proof, but I'm lowkey addicted to playing it, its so fun and completely offline, i'm rlly proud of what I made.
+
+<br>
+
+<img width="1500" height="2000" alt="WhatsApp Image 2026-07-12 at 12 56 06" src="https://github.com/user-attachments/assets/3c841c65-958c-4187-b5bd-b223102cdd9f" />
+<img width="1500" height="2000" alt="WhatsApp Image 2026-07-12 at 12 56 07 (1)" src="https://github.com/user-attachments/assets/eb1b6d8d-b386-417e-a7e6-824861548687" />
+<img width="1500" height="2000" alt="WhatsApp Image 2026-07-12 at 12 56 07" src="https://github.com/user-attachments/assets/c2fd47a0-c928-4ac7-88aa-c5279c6e2411" />
+
+
+https://github.com/user-attachments/assets/04e6033a-58b7-49bd-98ab-37e226792c19
+
